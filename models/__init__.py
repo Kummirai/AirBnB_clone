@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """ init file """
 from models.base_model import BaseModel
@@ -19,4 +18,4 @@ classes = {'BaseModel': BaseModel,
            'Review': Review}
 
 storage = file_storage.FileStorage()
-storage.reload(
+storage.reload()
