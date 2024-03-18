@@ -28,4 +28,4 @@ The files inside this directory are what comprises the AirBnB static website, in
 
 ### Author
 
-*Francesca Cantor* - [Github](https://github.com/fcantor/) || [Twitter](https://twitter.com/servomecatnism)
+Milton Kumirai <ajaxmilton@hotmail.com> [Github](https://github.com/Kummirai)
